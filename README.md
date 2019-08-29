@@ -1,6 +1,6 @@
 # LoveU
 
-![beating heart](xxxx.gif)
+![beating heart](https://github.com/fO-000/LoveU/blob/master/res/demo.gif)
 
 $$
 f(x,y) = [(\frac{x}{20c})^2 + (\frac{y}{10c})^2 - 1]^3 - (\frac{x}{20c})^2(\frac{y}{10c})^3
